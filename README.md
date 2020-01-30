@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+I would like to learn Swift.
+Mobile development is cool.
